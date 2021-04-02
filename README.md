@@ -1,9 +1,9 @@
 # SQLScript
 
 This generate-tables-script.py script produces three tables:
-* Hour_summary  __contains average wait times and post times __
-* create_edit   __contains averages wait times for create and edits__
-* percent       __contains percentages for each cpunt per operation __
+* Hour_summary  **contains average wait times and post times**
+* create_edit   **contains averages wait times for create and edits**
+* percent       **contains percentages for each cpunt per operation**
 
 
 To run the script, open command line.  cd to directory where script is stored.
